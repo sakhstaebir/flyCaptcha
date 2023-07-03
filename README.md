@@ -1,6 +1,6 @@
 ## flyCaptcha
 
-<b>The Number #1 Captcha Solving Service on RapidAPI.<b> We provide a highly maintained, up-to-date and scalable API based solution for many possible use cases and applications.
+**The Number #1 Captcha Solving Service on RapidAPI.** We provide a highly maintained, up-to-date and scalable API based solution for many possible use cases and applications.
 
 Automatic captcha solving service, stably support for a single customer with an average of millions of calls per day.
 

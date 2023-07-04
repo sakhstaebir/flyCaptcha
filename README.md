@@ -49,7 +49,7 @@ RapidAPI 上排名第一的验证码解决服务。 我们为许多可能的用�
 - 亚马逊验证码
 - 文字验证码
 
-FlyCaptcha 是构建自己的服务的理想解决方案。
+flyCaptcha 是构建自己的服务的理想解决方案。
 
 如果您需要更高容量的定制计划，请在 Telegram 上向我们发送消息 https://t.me/flyCaptcha
 

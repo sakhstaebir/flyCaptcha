@@ -1,4 +1,4 @@
-# Get your key from https://rapidapi.com/flyCaptcha/api/flycaptcha.
+# Get your key from https://rapidapi.com/SteveJobsnihack/api/flycaptcha.
 # In case you need support send us a message on Telegram https://t.me/flyCaptcha
 
 from selenium import webdriver

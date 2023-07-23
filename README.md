@@ -17,7 +17,7 @@ The Service is highly maintained and up-to-date.
 
 flyCaptcha is the ideal solution to build own services.
 
-In case you need a custom plan for higher-volume usage please send us a message on Telegram https://t.me/flyCaptcha
+In case you need a custom plan for higher-volume usage please send us a message on Telegram https://t.me/SteveJobsnihack
 
 ### 💬 Contact:
 
@@ -48,7 +48,7 @@ RapidAPI 上排名第一的验证码解决服务。 我们为许多可能的用�
 
 flyCaptcha 是构建自己的服务的理想解决方案。
 
-如果您需要更高容量的定制计划，请在 Telegram 上向我们发送消息 https://t.me/flyCaptcha
+如果您需要更高容量的定制计划，请在 Telegram 上向我们发送消息 https://t.me/SteveJobsnihack
 
 ### 💬 联系方式：
 

@@ -21,14 +21,11 @@ In case you need a custom plan for higher-volume usage please send us a message 
 
 ### 💬 Contact:
 
-E-Mail: support@flycaptcha.com <br>
+E-Mail: stevejobsnihack@gmail.com <br>
 Website: https://flycaptcha.com <br>
-Telegram: https://t.me/flyCaptcha <br>
-Github: https://github.com/flyCaptcha <br>
-Gitlab: https://gitlab.com/flyCaptcha/flycaptcha  <br>
-Rapidapi: https://rapidapi.com/flyCaptcha/api/flycaptcha <br>
-Tutorial: https://youtu.be/c2pP8WFGtUg
-
+Telegram: https://t.me/SteveJobsnihack <br>
+Github: https://github.com/SteveJobsnihack/flyCaptcha <br>
+Rapidapi: https://rapidapi.com/SteveJobsnihack/api/flycaptcha <br>
 
 ### Chinese
 
@@ -55,10 +52,8 @@ flyCaptcha 是构建自己的服务的理想解决方案。
 
 ### 💬 联系方式：
 
-电子邮件：support@flycaptcha.com <br>
+电子邮件：stevejobsnihack@gmail.com <br>
 网站：https://flycaptcha.com <br>
-电报：https://t.me/flyCaptcha <br>
-Github：https://github.com/flyCaptcha <br>
-Gitlab: https://gitlab.com/flyCaptcha/flycaptcha <br>
-Rapidapi：https://rapidapi.com/flyCaptcha/api/flycaptcha <br>
-教程：https://youtu.be/c2pP8WFGtUg
+电报：https://t.me/SteveJobsnihack <br>
+Github：https://github.com/SteveJobsnihack/flyCaptcha <br>
+Rapidapi：https://rapidapi.com/SteveJobsnihack/api/flycaptcha <br>

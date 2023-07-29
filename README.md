@@ -1,19 +1,16 @@
 ## flyCaptcha
 
-**The Number #1 Captcha Solving Service on RapidAPI.** We provide a highly maintained, up-to-date and scalable API based solution for many possible use cases and applications.
+**The Number #1 TikTok Captcha Solving Service on RapidAPI.** We provide a highly maintained, up-to-date and scalable API based solution for many possible use cases and applications.
 
 Automatic captcha solving service, stably support for a single customer with an average of millions of calls per day.
 
 The Service is highly maintained and up-to-date.
 
-### 🔭 Suportet Captcha Types:
+### 🔭 Suportet TikTok Captcha Types:
 
--  TikTok Slide, Rotate and Same Object Captcha
--  reCAPTCHA v2 and v3
--  FunCaptcha
--  hCaptcha
--  Amazon Captcha
--  Text Captcha
+- Slide
+- Rotate
+- Same Object
 
 flyCaptcha is the ideal solution to build own services.
 
@@ -31,20 +28,17 @@ Rapidapi: https://rapidapi.com/SteveJobsnihack/api/flycaptcha <br>
 
 ## 飞行验证码
 
-RapidAPI 上排名第一的验证码解决服务。 我们为许多可能的用例和应用程序提供高度维护、最新且可扩展的基于 API 的解决方案。
+**RapidAPI 上排名第一的 TikTok 驗證碼解決服務。** 我們為許多可能的用例和應用程序提供高度維護、最新且可擴展的基於 API 的解決方案。
 
 自动验证码解决服务，稳定支持单个客户日均百万次通话。
 
 该服务维护良好并且是最新的。
 
-### 🔭 支持验证码类型：
+### 🔭 支持 TikTok 驗證碼類型：
 
-- TikTok 滑动、旋转和同一对象验证码
-- reCAPTCHA v2 和 v3
-- 有趣的验证码
-- 验证码
-- 亚马逊验证码
-- 文字验证码
+- 滑動
+- 旋轉
+- 相同的對象
 
 flyCaptcha 是构建自己的服务的理想解决方案。
 

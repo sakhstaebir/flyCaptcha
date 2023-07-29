@@ -23,6 +23,7 @@ Website: https://flycaptcha.com <br>
 Telegram: https://t.me/SteveJobsnihack <br>
 Github: https://github.com/SteveJobsnihack/flyCaptcha <br>
 Rapidapi: https://rapidapi.com/SteveJobsnihack/api/flycaptcha <br>
+YouTube: https://www.youtube.com/watch?v=c2pP8WFGtUg <br>
 
 ### Chinese
 
@@ -51,3 +52,4 @@ flyCaptcha 是构建自己的服务的理想解决方案。
 电报：https://t.me/SteveJobsnihack <br>
 Github：https://github.com/SteveJobsnihack/flyCaptcha <br>
 Rapidapi：https://rapidapi.com/SteveJobsnihack/api/flycaptcha <br>
+YouTube: https://www.youtube.com/watch?v=c2pP8WFGtUg <br>

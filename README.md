@@ -22,6 +22,7 @@ E-Mail: stevejobsnihack@gmail.com <br>
 Website: https://flycaptcha.com <br>
 Telegram: https://t.me/SteveJobsnihack <br>
 Github: https://github.com/SteveJobsnihack/flyCaptcha <br>
+Gitlab: https://gitlab.com/SteveJobsnihack/flycaptcha <br>
 Rapidapi: https://rapidapi.com/SteveJobsnihack/api/flycaptcha <br>
 YouTube: https://www.youtube.com/watch?v=c2pP8WFGtUg <br>
 
@@ -51,5 +52,6 @@ flyCaptcha 是构建自己的服务的理想解决方案。
 网站：https://flycaptcha.com <br>
 电报：https://t.me/SteveJobsnihack <br>
 Github：https://github.com/SteveJobsnihack/flyCaptcha <br>
+Gitlab: https://gitlab.com/SteveJobsnihack/flycaptcha <br>
 Rapidapi：https://rapidapi.com/SteveJobsnihack/api/flycaptcha <br>
 YouTube: https://www.youtube.com/watch?v=c2pP8WFGtUg <br>

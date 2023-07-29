@@ -6,7 +6,7 @@ Automatic captcha solving service, stably support for a single customer with an 
 
 The Service is highly maintained and up-to-date.
 
-### 🔭 Suportet TikTok Captcha Types:
+### 🔭 Suported TikTok Captcha Types:
 
 - Slide
 - Rotate
